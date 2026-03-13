@@ -1,8 +1,8 @@
 class one
 {
-	public static void main (String args[])
+	public static void main (String[] args)
 	{
-		system.out.println("this is the line i want to print");
+		system.out.println("i want to print");
 	    system.out.println("this is a java program");
 	}
 }
